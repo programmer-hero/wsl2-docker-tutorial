@@ -36,7 +36,7 @@ Configurar ambientes de desenvolvimento no Windows sempre foi burocrático e com
 
 Com o nascimento do Docker este cenário melhorou bastante, pois podemos montar nosso ambiente de desenvolvimento baseado em Unix, de forma independente e rápida, e ainda unificada com outros sistemas operacionais.
 
-Veja nossa **live sobre WSL 2 + Docker no canal Full Cycle**: [https://www.youtube.com/watch?v=g4HKttouVxA](https://www.youtube.com/watch?v=g4HKttouVxA).
+**live sobre WSL 2 + Docker no canal Full Cycle**: [https://www.youtube.com/watch?v=g4HKttouVxA](https://www.youtube.com/watch?v=g4HKttouVxA).
 
 Para se utilizar Docker no Windows temos três versões:
 
